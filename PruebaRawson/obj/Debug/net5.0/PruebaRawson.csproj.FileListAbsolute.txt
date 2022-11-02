@@ -1,0 +1,16 @@
+C:\Desarrollos TP\VistaunificadaApi\PruebaRawson\PruebaRawson\obj\Debug\net5.0\PruebaRawson.csproj.AssemblyReference.cache
+C:\Desarrollos TP\VistaunificadaApi\PruebaRawson\PruebaRawson\obj\Debug\net5.0\PruebaRawson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Desarrollos TP\VistaunificadaApi\PruebaRawson\PruebaRawson\obj\Debug\net5.0\PruebaRawson.AssemblyInfoInputs.cache
+C:\Desarrollos TP\VistaunificadaApi\PruebaRawson\PruebaRawson\obj\Debug\net5.0\PruebaRawson.AssemblyInfo.cs
+C:\Desarrollos TP\VistaunificadaApi\PruebaRawson\PruebaRawson\obj\Debug\net5.0\PruebaRawson.csproj.CoreCompileInputs.cache
+C:\Desarrollos TP\VistaunificadaApi\PruebaRawson\PruebaRawson\bin\Debug\net5.0\PruebaRawson.exe
+C:\Desarrollos TP\VistaunificadaApi\PruebaRawson\PruebaRawson\bin\Debug\net5.0\PruebaRawson.deps.json
+C:\Desarrollos TP\VistaunificadaApi\PruebaRawson\PruebaRawson\bin\Debug\net5.0\PruebaRawson.runtimeconfig.json
+C:\Desarrollos TP\VistaunificadaApi\PruebaRawson\PruebaRawson\bin\Debug\net5.0\PruebaRawson.runtimeconfig.dev.json
+C:\Desarrollos TP\VistaunificadaApi\PruebaRawson\PruebaRawson\bin\Debug\net5.0\PruebaRawson.dll
+C:\Desarrollos TP\VistaunificadaApi\PruebaRawson\PruebaRawson\bin\Debug\net5.0\PruebaRawson.pdb
+C:\Desarrollos TP\VistaunificadaApi\PruebaRawson\PruebaRawson\obj\Debug\net5.0\PruebaRawson.dll
+C:\Desarrollos TP\VistaunificadaApi\PruebaRawson\PruebaRawson\obj\Debug\net5.0\refint\PruebaRawson.dll
+C:\Desarrollos TP\VistaunificadaApi\PruebaRawson\PruebaRawson\obj\Debug\net5.0\PruebaRawson.pdb
+C:\Desarrollos TP\VistaunificadaApi\PruebaRawson\PruebaRawson\obj\Debug\net5.0\PruebaRawson.genruntimeconfig.cache
+C:\Desarrollos TP\VistaunificadaApi\PruebaRawson\PruebaRawson\obj\Debug\net5.0\ref\PruebaRawson.dll
